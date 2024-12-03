@@ -81,3 +81,5 @@ for lokasi, info in data_panen.items():
         print(f"{info['nama_lokasi']} memerlukan perhatian khusus.")
     else:
         print(f"{info['nama_lokasi']} dalam kondisi baik.")
+
+print("Fida Nujjiya")
