@@ -82,4 +82,4 @@ for lokasi, info in data_panen.items():
     else:
         print(f"{info['nama_lokasi']} dalam kondisi baik.")
 
-print("Fida Nujjiya")
+print("Nujjiya Fida")
